@@ -29,3 +29,10 @@ section{
 .half-width img{
     width: 80%;
 }
+.dream-big{
+    background-image: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 100px;
+    padding-right: 5%;
+}
